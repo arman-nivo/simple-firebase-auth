@@ -1,0 +1,27 @@
+.signupFrom{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 42px;
+    padding: 5% 0%;
+    font-weight: bolder;
+    background-color: #ff990321;
+}
+
+.loginwithemail{
+
+}
+
+.loginwithgoogle{
+
+}
+.breakline{
+    width: 20%;
+    border: 1px dashed;
+}
+.error{
+    color: blue;
+}
